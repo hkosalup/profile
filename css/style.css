@@ -1,0 +1,203 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #58b4ae;
+}
+
+h2 {
+  color: #58b4ae;
+}
+
+h3 {
+  color: #58b4ae;
+}
+
+p {
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+}
+
+hr {
+  border-style: dotted;
+  border-bottom: none;
+  border-width: 5px;
+  color: #dae1e7;
+  width: 3%;
+}
+
+/* top Container */
+.name-text {
+  margin-top: 0;
+  font-size: 4rem;
+  font-family: "Brush Script MT", cursive;
+}
+
+.home-top {
+  background-color: #E4F9F5;
+  padding: 20px 0;
+  position: relative;
+}
+
+.nav {
+  margin: auto 100px;
+  height: 100px;
+  position: relative;
+}
+
+.row {
+  text-align: center;
+  height: 100%;
+}
+
+.page-profile {
+  position: absolute;
+  left: 10px;
+  height: 100px;
+}
+
+.nav-bar {
+  position: absolute;
+  right: 10px;
+  padding: 41px 0;
+}
+
+.nav-bar>a {
+  padding: 0 10px;
+  text-decoration: none;
+  color: #58b4ae;
+}
+
+.nav-bar>a:hover {
+  color: black;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  color: #58b4ae;
+  line-height: 10px;
+}
+
+.cloud {
+  position: absolute;
+  width: 100px;
+  height: 60px;
+}
+
+.cloud1 {
+  right: 10px;
+}
+
+/* middle container */
+.middle-container {
+  line-height: 2;
+}
+
+.hi-content {
+  margin: 30px auto;
+}
+
+.h2 {
+  margin: 0;
+}
+
+.profile {
+  height: 100px;
+}
+
+.para-content {
+  width: 40%;
+  margin: auto;
+  color: grey;
+}
+
+.IcanDo-group {
+  width: 60%;
+  margin: auto;
+}
+
+.i-can-do {
+  font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+  font-size: 3rem;
+}
+
+.profileIcanDo {
+  width: 100%;
+  display: inline-block;
+}
+
+.profileIcanDo>.profile1 {
+  float: left;
+}
+
+.develop-text {
+  margin: 30px auto;
+}
+
+.h1-develop {
+  margin: 0;
+}
+
+.para-content1 {
+  width: 70%;
+  margin: auto;
+  color: grey;
+}
+
+.profileIcanDo>.profile2 {
+  margin-top: 20px;
+  float: right;
+}
+
+.message-me {
+  margin: 30px auto 50px;
+}
+
+.button-message-me {
+  background: #45B29A;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #1B7F69;
+  font-family: serif;
+  font-size: 1.2rem;
+  font-weight: 100;
+  padding: 5px 10px;
+  border: solid #1B7F69 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.button-message-me:hover {
+  border: solid #1F9D82 1px;
+  background-color: #1F9D82;
+}
+
+/* button container */
+.button-container {
+  background-color: #E4F9F5;
+  margin: 20px auto 0;
+  padding: 30px 0 10px;
+  line-height: 5;
+}
+
+.copyright {
+  font-size: 0.67rem;
+  color: #58b4ae;
+}
+
+.social>a {
+  color: #58b4ae;
+  text-decoration: none;
+  padding: 0 20px;
+}
+
+.social>a:hover {
+  color: black;
+}
